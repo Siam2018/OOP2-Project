@@ -1,6 +1,0 @@
-D:\repos\Models\bin\Debug\Models.dll
-D:\repos\Models\bin\Debug\Models.pdb
-D:\repos\Models\obj\Debug\Models.csproj.AssemblyReference.cache
-D:\repos\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
-D:\repos\Models\obj\Debug\Models.dll
-D:\repos\Models\obj\Debug\Models.pdb
