@@ -1,9 +1,0 @@
-D:\repos\Controllers\bin\Debug\Controllers.dll
-D:\repos\Controllers\bin\Debug\Controllers.pdb
-D:\repos\Controllers\bin\Debug\Models.dll
-D:\repos\Controllers\bin\Debug\Models.pdb
-D:\repos\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
-D:\repos\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
-D:\repos\Controllers\obj\Debug\Controllers.csproj.CopyComplete
-D:\repos\Controllers\obj\Debug\Controllers.dll
-D:\repos\Controllers\obj\Debug\Controllers.pdb
